@@ -1,4 +1,4 @@
-# 扫码加入交流群
+# Quét mã QR để tham gia nhóm giao lưu
 
 ![image](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/36b45b13-fe65-4c5f-80f5-ea83aebecf01)
 
@@ -10,30 +10,30 @@
 `pip3 install loguru`
 
 
-修改main函数中user_id和sock5代理列表
+Mở tập tin main.py để sửa user_id và danh sách sock5 ở gần cuối tập tin
 
-如果不使用代理,请运行no_proxy.py
+Nếu không sử dụng proxy thì chạy tập tin no_proxy.py
 
 
-### 邀请链接
+### Liên kết lời mời
 
 https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
 
-### user_id获取方法
+### Cách lấy user_id
 
-1.打开链接登录https://app.getgrass.io/dashboard
+1. Đăng nhập và trang https://app.getgrass.io/dashboard
 
-2.页面按F12打开控制台 输入代码
+2. Nhấn F12 để mở bảng và chọn thẻ Console sau đó nhập mã
 
 `localStorage.getItem('userId')`
 
-打印的就是当前用户的user_id
+Những gì được in là user_id của người dùng hiện tại.
 
 
 ![0001](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/31d0e16e-df2f-443a-a141-910d16052ed9)
 
 
-无代码基础请直接使用带界面版本
+Nếu bạn không biết sửa mã nguồn, vui lòng sử dụng phiên bản có giao diện (tập tin ui.py)
 
 
 ![3333](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/80e18c1f-da5d-40d4-a361-3506b44c6602)
