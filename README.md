@@ -9,7 +9,7 @@ Nếu không sử dụng proxy thì chạy tập tin no_proxy.py
 
 ### Liên kết lời mời
 
-https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
+[https://app.getgrass.io/register/?referralCode=igL12FvaVTjLZyP](https://app.getgrass.io/register/?referralCode=igL12FvaVTjLZyP)
 
 ### Cách lấy user_id
 
